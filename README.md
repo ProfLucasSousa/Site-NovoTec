@@ -94,7 +94,7 @@ O site é estático e pode ser hospedado em qualquer serviço de hospedagem web,
 
 ## 👥 Equipe de Desenvolvimento
 
-Este projeto foi desenvolvido por **17 alunos** do 3º ano B do curso Técnico em Informática Para Internet (NOVOTEC) da E.E. Vicente Leporace, sob a supervisão do **Professor Lucas Silva**.
+Este projeto foi desenvolvido por **17 alunos** do 3º ano B do curso Técnico em Informática Para Internet (NOVOTEC) da E.E. Vicente Leporace, sob a supervisão do **Professor Lucas Sousa**.
 
 ### Desenvolvedores por Disciplina:
 - **Geografia:** Mariana e Pedro
@@ -139,7 +139,9 @@ Este projeto é de código aberto e está disponível para fins educacionais.
 
 **E.E. Vicente Leporace - 3º B NOVOTEC**  
 Curso: Técnico em Informática Para Internet  
-Supervisor: Professor Lucas Silva
+Supervisor: Professor Lucas Sousa
+
+Co-autor: Lucas Silva
 
 ---
 
